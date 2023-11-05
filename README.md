@@ -1,7 +1,7 @@
 # Ai-based-game
 
-Project made using only AI generated content:
-stablediffusion, elevenlabs, bark, chatgpt, soundful, sonicPi
+Project made using only AI generated content:\
+stablediffusion, elevenlabs, bark, chatgpt, soundful, sonicPi\
 Code 90% our own heads
 
 https://adriannowak97.itch.io/foodie-finds-love
